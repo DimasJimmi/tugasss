@@ -39,7 +39,7 @@
                 <li class="nav-item">
                     <a href="{{route('daftarMapel')}}" class="nav-link">
                         <i class="nav-icon fa fa-dashboard"></i>
-                        <p>jancok</p>
+                        <p>mapel</p>
                     </a>
                 </li>
                 <li class="nav-item">
